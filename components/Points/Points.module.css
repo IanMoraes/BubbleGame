@@ -1,0 +1,18 @@
+.points{
+    background: rgba(0, 240, 12, 0.32);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.8px);
+    -webkit-backdrop-filter: blur(5.8px);
+    border: 1px solid rgb(14, 233, 94);
+    width:100px;
+    height: 100px;
+    text-align: center;
+    font-size:50px;
+    text-justify: center;
+    user-select:none;
+    position: absolute;
+    right: 0;
+    bottom:20px;
+    z-index: 99;
+}

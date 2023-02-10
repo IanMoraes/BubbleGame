@@ -12,7 +12,7 @@ const clientSideEmotionCache = createEmotionCache();
 
 export default function MyApp(props) {
     const { Component, emotionCache = clientSideEmotionCache, pageProps } = props;
-
+    
     return (
         <CacheProvider value={emotionCache}>
             <Head>

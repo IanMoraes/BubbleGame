@@ -21,7 +21,9 @@
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-uuid": "^2.0.0",
+    "use-sound": "^4.0.1"
   },
   "devDependencies": {
     "eslint": "latest",
